@@ -56,3 +56,4 @@ To develop a machine learning model that predicts house prices based on various 
 
 ## Contact
 For further queries, contact **Krupason** at [your email or contact information].
+![Screenshot 2025-01-18 220525](https://github.com/user-attachments/assets/d25436fb-31a0-4597-84ac-3db82e3d8e39)
